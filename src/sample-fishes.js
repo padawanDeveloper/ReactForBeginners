@@ -68,7 +68,7 @@ const fishes = {
     desc:
       "The best mussels from the Pacific Northwest with a full-flavored and complex taste.",
     price: 425,
-    status: "available"
+    status: "unavailable"
   },
 
   fish9: {
